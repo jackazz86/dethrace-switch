@@ -369,7 +369,7 @@ if(NINTENDO_SWITCH)
 
     # create .nro target
     set(NRO_OUT "${CMAKE_BINARY_DIR}/dethrace.nro")
-    set(NRO_ICON "${CMAKE_SOURCE_DIR}/packaging/switch/icon_256.jpg")
+    set(NRO_ICON "${CMAKE_SOURCE_DIR}/packaging/carma_256.jpg")
     set(NACP_OUT "${CMAKE_BINARY_DIR}/dethrace.nacp")
     set(NACP_NAME "DethRaceNX")
     set(NACP_AUTHOR "alexart878")
